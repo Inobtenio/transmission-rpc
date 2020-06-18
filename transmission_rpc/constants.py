@@ -327,6 +327,9 @@ TORRENT_ARGS = {
         'priority-normal': Args(
             'array', 1, None, None, None, "A list of file id's that should have normal priority."
         ),
+        'sequential-download': Args(
+            'boolean', 1, None, None, None, 'If True, downloads torrent pieces sequentially.'
+        ),
     }
 }
 
