@@ -15,7 +15,7 @@
 ## Install
 
 ```bash
-$ pip install transmission-rpc==3.0.0a2
+$ pip install git+https://github.com/Inobtenio/transmission-rpc.git@master
 ```
 
 ## Documents
@@ -26,7 +26,7 @@ $ pip install transmission-rpc==3.0.0a2
 
 ## Developer
 
-this project is forked from https://bitbucket.org/blueluna/transmissionrpc/overview
+this project is forked from https://github.com/Trim21/transmission-rpc
 
 `transmission-rpc` is licensed under the MIT license.
 
