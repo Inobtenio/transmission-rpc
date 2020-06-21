@@ -15,7 +15,7 @@
 ## Install
 
 ```bash
-$ pip install git+https://github.com/Inobtenio/transmission-rpc.git@master
+$ pip3 install git+https://github.com/Inobtenio/transmission-rpc.git@master
 ```
 
 ## Documents
